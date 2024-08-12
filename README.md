@@ -12,7 +12,7 @@
 
  - 💻 *Back-End Development:*  <img align="center" height="30" src="https://user-images.githubusercontent.com/69760792/121766706-a67ec180-cb71-11eb-923d-69fc323bafa4.png"/> <img align="center" height="30" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img align="center" height="30" src="https://img.icons8.com/color/48/000000/java-web-token.png"/>
 
- -💻 *Others:*  Springboot, Prisma, TailwindCSS, GrpahQL, Docker, Kubernates, CI/CD, MySQL, Postgresql, Machine Learning Algorithms.
+ - 💻 *Others:*  DSA(in java), Spring-boot, Prisma, TailwindCSS, GrpahQL, Docker, Kubernates, CI/CD, MySQL, Postgresql, Machine Learning Algorithms.
  
  - 💻 *Work Experience:* I have worked in IBM-apptio around 1 year.<img align="center" height="30" src="https://img.icons8.com/emoji/48/000000/rocket-emji.png"/> 
 
