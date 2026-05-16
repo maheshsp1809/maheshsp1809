@@ -14,7 +14,7 @@
 
  - 💻 *Others:*  DSA(in java), Spring-boot, Prisma, TailwindCSS, GrpahQL, Docker, Kubernates, CI/CD, MySQL, Postgresql, Machine Learning Algorithms.
  
- - 💻 *Work Experience:* I have worked in IBM-apptio around 1 year.<img align="center" height="30" src="https://img.icons8.com/emoji/48/000000/rocket-emji.png"/> 
+ - 💻 *Work Experience:* Seasoned Dev with 4+ years in scalable, distributed software systems .<img align="center" height="30" src="https://img.icons8.com/emoji/48/000000/rocket-emji.png"/> 
 
 📌 Here's a link to my [Portfolio](https://portfolio-mahesh2.vercel.app/)
 
